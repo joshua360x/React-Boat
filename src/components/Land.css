@@ -1,0 +1,95 @@
+
+
+
+Carousel {
+  width: 100%;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  object-fit: cover;
+  border: none;
+  outline: none;
+  
+  /* align-content: center;  */
+  /* background: url('../images/pexels-lukas-296243.jpg') center center/cover contain no-repeat; */
+}
+
+.card {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  object-fit: contain;
+}
+
+.card > h3 {
+   z-index: 9;
+   position: absolute;
+   align-self: center;
+   font-size: 60px;
+   color: purple;
+   padding: 0rem 4rem 3rem 4rem;
+   background-color: white;
+   border-radius: 16px;
+}
+
+.card > p {
+  z-index: 9;
+  position: absolute;
+  align-self: center;
+  font-size: 17px;
+  margin-top: 4rem;
+  color: purple;
+}
+
+
+.card > img {
+  z-index: 1;
+  /* background: cover; */
+  object-fit: cover;
+  outline: none;
+  border: none;
+  /* min-height: 20vh; */
+  width: 100%;
+  height: 100vh;
+  filter: brightness(80%);
+}
+
+.caption-header{
+  /* position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) */
+
+}
+
+.tag-header {
+  margin: 0 auto;
+}
+
+
+
+.sad {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
