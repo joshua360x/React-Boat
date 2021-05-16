@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Boat/static/css/main.86173f0d.chunk.css",
+    "main.js": "/React-Boat/static/js/main.c5e242b0.chunk.js",
+    "main.js.map": "/React-Boat/static/js/main.c5e242b0.chunk.js.map",
+    "runtime-main.js": "/React-Boat/static/js/runtime-main.b44e50f0.js",
+    "runtime-main.js.map": "/React-Boat/static/js/runtime-main.b44e50f0.js.map",
+    "static/css/2.a79e5011.chunk.css": "/React-Boat/static/css/2.a79e5011.chunk.css",
+    "static/js/2.f30bf6c1.chunk.js": "/React-Boat/static/js/2.f30bf6c1.chunk.js",
+    "static/js/2.f30bf6c1.chunk.js.map": "/React-Boat/static/js/2.f30bf6c1.chunk.js.map",
+    "index.html": "/React-Boat/index.html",
+    "static/css/2.a79e5011.chunk.css.map": "/React-Boat/static/css/2.a79e5011.chunk.css.map",
+    "static/css/main.86173f0d.chunk.css.map": "/React-Boat/static/css/main.86173f0d.chunk.css.map",
+    "static/js/2.f30bf6c1.chunk.js.LICENSE.txt": "/React-Boat/static/js/2.f30bf6c1.chunk.js.LICENSE.txt",
+    "static/media/pexels-charles-parker-5847453.jpg": "/React-Boat/static/media/pexels-charles-parker-5847453.5ec2c782.jpg",
+    "static/media/Join.css": "/React-Boat/static/media/pexels-lukas-296243.34b5b24b.jpg",
+    "static/media/pexels-lukas-296278.jpg": "/React-Boat/static/media/pexels-lukas-296278.eb0beda5.jpg",
+    "static/media/pexels-timo-volz-3769312.jpg": "/React-Boat/static/media/pexels-timo-volz-3769312.2dad1d54.jpg",
+    "static/media/styles.css": "/React-Boat/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44e50f0.js",
+    "static/css/2.a79e5011.chunk.css",
+    "static/js/2.f30bf6c1.chunk.js",
+    "static/css/main.86173f0d.chunk.css",
+    "static/js/main.c5e242b0.chunk.js"
+  ]
+}
